@@ -1,0 +1,101 @@
+job_title,company,location,skills_required,job_category,experience_required,salary_range
+HR Manager,Cognizant,Ahmedabad,"Payroll, Recruitment",HR,5+ years,3-5 LPA
+Software Engineer,Google,Noida,"Spring, SQL, Kubernetes",Software,0-1 years,3-5 LPA
+Frontend Developer,Capgemini,Kolkata,"JavaScript, Angular, HTML",Software,2-4 years,6-9 LPA
+Digital Marketing Executive,Deloitte,Jaipur,"SEM, Google Ads",Marketing,1-2 years,2-4 LPA
+Product Manager,Amazon,Noida,"Roadmap, Scrum, Agile, Stakeholder Management",Management,0-1 years,4-6 LPA
+Cloud Engineer,Zoho,Hyderabad,"DevOps, Azure, AWS",Cloud,3-5 years,6-9 LPA
+QA Engineer,IBM,Gurgaon,"Manual Testing, Selenium",Software,2-4 years,10-15 LPA
+Data Analyst,Wipro,Bhubaneswar,"Python, Tableau, SQL",Data,1-2 years,8-12 LPA
+DevOps Engineer,Google,Gurgaon,"Jenkins, Kubernetes, Docker, AWS",Cloud,5+ years,6-9 LPA
+Cloud Engineer,Tech Mahindra,Bhubaneswar,"DevOps, Linux",Cloud,5+ years,6-9 LPA
+HR Manager,TCS,Ahmedabad,"Recruitment, Employee Engagement, HRMS, Payroll",HR,5+ years,7-10 LPA
+Frontend Developer,Accenture,Pune,"JavaScript, Angular",Software,0-1 years,5-8 LPA
+Digital Marketing Executive,HCL,Hyderabad,"SEM, Content Marketing, SEO, Google Ads",Marketing,3-5 years,10-15 LPA
+Software Engineer,IBM,Lucknow,"Docker, Spring",Software,0-1 years,10-15 LPA
+Data Analyst,Microsoft,Noida,"Tableau, Python",Data,5+ years,3-5 LPA
+Content Writer,Google,Pune,"Creative Writing, SEO",Marketing,3-5 years,6-9 LPA
+Frontend Developer,Infosys,Chennai,"Angular, JavaScript",Software,5+ years,2-4 LPA
+Backend Developer,Capgemini,Gurgaon,"Python, Django, REST API, Flask",Software,3-5 years,6-9 LPA
+Backend Developer,Cognizant,Chandigarh,"Python, REST API, Django, Flask",Software,0-1 years,10-15 LPA
+Content Writer,HCL,Chandigarh,"Creative Writing, SEO, Editing",Marketing,3-5 years,8-12 LPA
+DevOps Engineer,Cognizant,Noida,"AWS, Kubernetes",Cloud,2-4 years,8-12 LPA
+Software Engineer,Capgemini,Delhi,"SQL, Docker",Software,3-5 years,2-4 LPA
+Cloud Engineer,Cognizant,Delhi,"Docker, DevOps",Cloud,1-2 years,10-15 LPA
+Cloud Engineer,Microsoft,Kolkata,"AWS, DevOps, Azure",Cloud,0-1 years,3-5 LPA
+QA Engineer,Infosys,Chennai,"Manual Testing, Selenium, Automation Testing, Jira",Software,0-1 years,2-4 LPA
+Digital Marketing Executive,IBM,Chandigarh,"Content Marketing, SEM, SEO, Google Ads",Marketing,1-2 years,4-6 LPA
+HR Manager,Google,Hyderabad,"Employee Engagement, HRMS, Payroll, Recruitment",HR,2-4 years,4-6 LPA
+Machine Learning Engineer,HCL,Bhubaneswar,"Python, Scikit-learn, Pandas",AI/ML,3-5 years,3-5 LPA
+DevOps Engineer,HCL,Kolkata,"Kubernetes, AWS, Jenkins",Cloud,3-5 years,5-8 LPA
+Cloud Engineer,Accenture,Bhubaneswar,"Azure, DevOps, AWS, Linux",Cloud,1-2 years,10-15 LPA
+HR Manager,IBM,Lucknow,"Employee Engagement, Payroll, Recruitment, HRMS",HR,5+ years,10-15 LPA
+Graphic Designer,Accenture,Gurgaon,"UI/UX, Illustrator, Figma",Design,3-5 years,7-10 LPA
+Backend Developer,HCL,Jaipur,"Flask, Django",Software,0-1 years,2-4 LPA
+Data Analyst,Capgemini,Bhubaneswar,"Python, Power BI, Tableau",Data,5+ years,6-9 LPA
+Backend Developer,Tech Mahindra,Pune,"Python, Flask",Software,3-5 years,8-12 LPA
+QA Engineer,Microsoft,Jaipur,"Selenium, Automation Testing, Jira",Software,5+ years,3-5 LPA
+Sales Executive,Capgemini,Bangalore,"Negotiation, Communication, Lead Generation",Sales,5+ years,4-6 LPA
+Frontend Developer,HCL,Lucknow,"CSS, HTML, JavaScript, React",Software,3-5 years,7-10 LPA
+Product Manager,Zoho,Delhi,"Scrum, Roadmap",Management,0-1 years,8-12 LPA
+Backend Developer,Microsoft,Ahmedabad,"Django, Flask, REST API, Python",Software,3-5 years,5-8 LPA
+Frontend Developer,TCS,Kolkata,"Angular, HTML, React, CSS",Software,2-4 years,4-6 LPA
+DevOps Engineer,Infosys,Kolkata,"Docker, Kubernetes, AWS, Jenkins",Cloud,3-5 years,5-8 LPA
+DevOps Engineer,Google,Chennai,"AWS, Docker, Kubernetes",Cloud,3-5 years,5-8 LPA
+Machine Learning Engineer,TCS,Chandigarh,"TensorFlow, Scikit-learn",AI/ML,0-1 years,3-5 LPA
+Business Analyst,Zoho,Gurgaon,"Power BI, SQL, Communication, Excel",Data,2-4 years,2-4 LPA
+Data Analyst,Deloitte,Bangalore,"SQL, Excel, Python, Tableau",Data,2-4 years,8-12 LPA
+Business Analyst,Wipro,Ahmedabad,"Power BI, Communication",Data,5+ years,3-5 LPA
+Backend Developer,Infosys,Pune,"Flask, Django, REST API",Software,0-1 years,7-10 LPA
+DevOps Engineer,Microsoft,Chennai,"AWS, Jenkins, Kubernetes",Cloud,2-4 years,7-10 LPA
+DevOps Engineer,HCL,Gurgaon,"AWS, Kubernetes, Docker",Cloud,0-1 years,10-15 LPA
+Machine Learning Engineer,Tech Mahindra,Hyderabad,"Python, Scikit-learn",AI/ML,2-4 years,7-10 LPA
+HR Manager,TCS,Pune,"Employee Engagement, HRMS",HR,2-4 years,5-8 LPA
+Data Analyst,Google,Chandigarh,"Python, Tableau, Excel",Data,5+ years,8-12 LPA
+Sales Executive,Amazon,Ahmedabad,"Negotiation, CRM, Lead Generation, Communication",Sales,0-1 years,7-10 LPA
+Digital Marketing Executive,Deloitte,Bangalore,"Content Marketing, SEO, SEM, Google Ads",Marketing,5+ years,10-15 LPA
+Data Analyst,Tech Mahindra,Chandigarh,"Excel, Python",Data,5+ years,10-15 LPA
+Sales Executive,IBM,Lucknow,"Communication, Lead Generation",Sales,1-2 years,2-4 LPA
+Frontend Developer,Accenture,Gurgaon,"CSS, React, HTML, JavaScript",Software,5+ years,3-5 LPA
+Content Writer,HCL,Gurgaon,"Research, Editing",Marketing,0-1 years,8-12 LPA
+Graphic Designer,Wipro,Bhubaneswar,"Photoshop, Illustrator, UI/UX, Figma",Design,3-5 years,10-15 LPA
+Content Writer,Google,Delhi,"Editing, Creative Writing, SEO",Marketing,2-4 years,6-9 LPA
+Sales Executive,TCS,Noida,"Negotiation, Lead Generation, Communication",Sales,1-2 years,5-8 LPA
+Graphic Designer,Cognizant,Gurgaon,"Photoshop, Figma",Design,5+ years,7-10 LPA
+Machine Learning Engineer,Wipro,Pune,"TensorFlow, Pandas, Python, Scikit-learn",AI/ML,1-2 years,5-8 LPA
+Machine Learning Engineer,Google,Mumbai,"Scikit-learn, Pandas, TensorFlow",AI/ML,5+ years,3-5 LPA
+Data Analyst,Flipkart,Bangalore,"Tableau, Python, SQL",Data,0-1 years,7-10 LPA
+Software Engineer,Zoho,Bhubaneswar,"Kubernetes, Java, Docker",Software,3-5 years,2-4 LPA
+Machine Learning Engineer,Google,Bangalore,"TensorFlow, Python",AI/ML,2-4 years,6-9 LPA
+Frontend Developer,Flipkart,Pune,"HTML, React, CSS, JavaScript",Software,0-1 years,3-5 LPA
+Digital Marketing Executive,Amazon,Lucknow,"SEM, Google Ads, Content Marketing, SEO",Marketing,5+ years,3-5 LPA
+Content Writer,HCL,Chandigarh,"Editing, Creative Writing, Research, SEO",Marketing,2-4 years,2-4 LPA
+Backend Developer,Wipro,Lucknow,"REST API, Django, Python",Software,0-1 years,4-6 LPA
+Sales Executive,Cognizant,Delhi,"Communication, CRM",Sales,2-4 years,8-12 LPA
+Digital Marketing Executive,TCS,Chennai,"SEM, Content Marketing",Marketing,3-5 years,10-15 LPA
+Frontend Developer,Google,Noida,"React, CSS, Angular, HTML",Software,2-4 years,7-10 LPA
+Content Writer,HCL,Mumbai,"SEO, Editing, Research, Creative Writing",Marketing,3-5 years,10-15 LPA
+Content Writer,Google,Ahmedabad,"Editing, Research",Marketing,2-4 years,6-9 LPA
+Machine Learning Engineer,Flipkart,Ahmedabad,"Pandas, Python, Scikit-learn",AI/ML,5+ years,5-8 LPA
+Sales Executive,Zoho,Noida,"Lead Generation, Negotiation, Communication",Sales,1-2 years,5-8 LPA
+HR Manager,Infosys,Bangalore,"HRMS, Employee Engagement, Payroll",HR,3-5 years,2-4 LPA
+Product Manager,Infosys,Mumbai,"Stakeholder Management, Roadmap",Management,0-1 years,2-4 LPA
+Graphic Designer,TCS,Bhubaneswar,"Illustrator, Photoshop",Design,2-4 years,4-6 LPA
+Graphic Designer,Tech Mahindra,Jaipur,"Figma, UI/UX, Illustrator, Photoshop",Design,5+ years,8-12 LPA
+Cloud Engineer,Infosys,Pune,"AWS, Docker, DevOps",Cloud,1-2 years,8-12 LPA
+Product Manager,Infosys,Kolkata,"Scrum, Agile, Stakeholder Management",Management,5+ years,2-4 LPA
+Backend Developer,Microsoft,Jaipur,"Django, Python, REST API, Flask",Software,2-4 years,4-6 LPA
+Graphic Designer,Wipro,Chennai,"Illustrator, Figma, Photoshop, UI/UX",Design,1-2 years,4-6 LPA
+Frontend Developer,Wipro,Chandigarh,"Angular, React, HTML, CSS",Software,2-4 years,10-15 LPA
+Digital Marketing Executive,Capgemini,Delhi,"Google Ads, Content Marketing",Marketing,2-4 years,5-8 LPA
+Graphic Designer,Tech Mahindra,Chandigarh,"Figma, UI/UX",Design,0-1 years,2-4 LPA
+Cloud Engineer,Cognizant,Bangalore,"Azure, Linux",Cloud,5+ years,8-12 LPA
+Graphic Designer,Cognizant,Chennai,"UI/UX, Illustrator, Photoshop",Design,5+ years,3-5 LPA
+Data Analyst,Capgemini,Lucknow,"SQL, Tableau",Data,1-2 years,8-12 LPA
+Digital Marketing Executive,HCL,Jaipur,"SEM, Google Ads, SEO, Content Marketing",Marketing,5+ years,7-10 LPA
+Sales Executive,IBM,Ahmedabad,"Communication, Negotiation, CRM",Sales,1-2 years,8-12 LPA
+Machine Learning Engineer,Microsoft,Gurgaon,"Python, Pandas, Scikit-learn",AI/ML,0-1 years,8-12 LPA
+QA Engineer,HCL,Noida,"Jira, Selenium",Software,0-1 years,10-15 LPA
+Frontend Developer,Google,Chandigarh,"Angular, React",Software,1-2 years,3-5 LPA
+Software Engineer,Tech Mahindra,Gurgaon,"Kubernetes, Docker, SQL, Spring",Software,5+ years,10-15 LPA
+HR Manager,Tech Mahindra,Kolkata,"Employee Engagement, Recruitment",HR,0-1 years,3-5 LPA
