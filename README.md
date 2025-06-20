@@ -7,7 +7,7 @@ This project uses **Machine Learning & Data Analysis** to explore and predict tr
 ---
 
 ## 📁 Dataset
-- **Synthetic Dataset** based on real-world job trends in India
+- **Synthetic Dataset** based on real-world job trends in India  
 - Includes: job titles, categories, skills, experience, salary, and locations
 
 ---
@@ -15,22 +15,22 @@ This project uses **Machine Learning & Data Analysis** to explore and predict tr
 ## 🎯 Project Objectives
 
 1. **Exploratory Data Analysis (EDA)**:
-   - Most common job categories, titles, and cities
-   - In-demand skills across India
-   - Salary distribution patterns
+   - Most common job categories, titles, and cities  
+   - In-demand skills across India  
+   - Salary distribution patterns  
 
 2. **Machine Learning Models**:
-   - **Model 1**: Predict job category using job description and skills (Accuracy ~95%)
-   - **Model 2**: Predict whether a job is high-paying or low-paying based on skillset & title (Accuracy ~94%)
+   - **Model 1**: Predict job category using job description and skills (Accuracy ~95%)  
+   - **Model 2**: Predict whether a job is high-paying or low-paying based on skillset & title (Accuracy ~94%)  
 
 ---
 
 ## 📊 Key Findings
 
-- **Top job categories**: Software, Data, Marketing
-- **Top skills**: Python, SQL, Machine Learning, Communication
-- **High-paying jobs** often require modern tech skills like Python, Cloud, ML
-- **Cities with most jobs**: Bangalore, Delhi, Mumbai
+- **Top job categories**: Software, Data, Marketing  
+- **Top skills**: Python, SQL, Machine Learning, Communication  
+- **High-paying jobs** often require modern tech skills like Python, Cloud, ML  
+- **Cities with most jobs**: Gurgaon, Chandigarh, Noida, Pune, Bhubaneswar  
 
 ---
 
@@ -45,18 +45,31 @@ This project uses **Machine Learning & Data Analysis** to explore and predict tr
 
 ## 🛠 Tech Stack
 
-- **Language**: Python
-- **Libraries**: Pandas, Seaborn, Scikit-learn, Matplotlib
-- **Modeling**: TF-IDF + Random Forest + Label Encoding
+- **Language**: Python  
+- **Libraries**: Pandas, Seaborn, Scikit-learn, Matplotlib, Streamlit  
+- **Modeling**: TF-IDF + Random Forest + Label Encoding  
+
+---
+
+## 🚀 Streamlit App
+
+- A simple and interactive **Streamlit web app** is included to:
+  - Predict job category using your inputs (job title, experience, skills, and location)
+  - Demonstrate the model’s capability in real-time
+- Helps demonstrate how ML can be deployed for real-world applications in job search platforms
 
 ---
 
 ## 📦 How to Run
 
-1. Clone this repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run `AI_Driven_Insights_into_Indian_Job_Market.ipynb`
-
+1. Clone this repo  
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   
+3. To run the Streamlit app:
+   streamlit run app.py
+   
 ---
 
 ## 📌 Author
