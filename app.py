@@ -21,7 +21,7 @@ if st.button("Predict Category"):
     st.success(f"Predicted Job Category: {result[0]}")
 
 
-# Run this in powershell:
-# & "C:\Users\hp\AppData\Local\Programs\Python\Python312\python.exe" -m pip install streamlit scikit-learn
-# & "C:\Users\hp\AppData\Local\Programs\Python\Python312\python.exe" -m streamlit run app.py
-
+''' Run this in powershell:
+1.- cd "C:\Users\hp\Downloads\indian job"
+2.- streamlit run app.py
+'''
