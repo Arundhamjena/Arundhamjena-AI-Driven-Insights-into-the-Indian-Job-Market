@@ -40,7 +40,6 @@ This project uses **Machine Learning & Data Analysis** to explore and predict tr
 |-------------------|-----------------|----------|
 | Random Forest      | Job Category    | ~95%     |
 | Random Forest      | Salary Level    | ~94%     |
-| Logistic Regression / Naive Bayes | (Optional comparison)
 
 ---
 
