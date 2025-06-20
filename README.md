@@ -68,6 +68,7 @@ This project uses **Machine Learning & Data Analysis** to explore and predict tr
    pip install -r requirements.txt
    
 3. To run the Streamlit app:
+   ```bash
    streamlit run app.py
    
 ---
